@@ -3,4 +3,4 @@ env26/
 *.egg-info
 dist/
 *.pyc
-
+.idea
